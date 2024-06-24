@@ -19,7 +19,7 @@ const Header = () => {
           <h2 className="font-qanelasBold text-2xl mt-4 md:text-4xl lg:text-6xl text-white">
             Hello, I am Ethan. A Product Designer
           </h2>
-          <p className="text-lg my-4 lg:my-6 roboto-regular text-center text-white">
+          <p className="text-lg my-4 lg:my-6 roboto-regular text-center md:text-left text-white">
             Hello, I am Ethan, a product designer. I'm passionate about creating
             user-friendly and visually appealing experiences that solve problems
             and make a positive impact. With a keen eye for detail and a focus

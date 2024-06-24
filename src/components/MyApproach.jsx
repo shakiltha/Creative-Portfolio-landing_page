@@ -5,7 +5,7 @@ const MyApproach = () => {
         My Approach
       </h2>
       <div className="md:grid md:grid-cols-2 md:grid-rows-1 lg:grid-cols-3 gap-1">
-        <div className="my-approach-box flex flex-col justify-center items-left p-4">
+        <div className="my-approach-box md:h-[20rem] flex flex-col justify-center items-left p-4">
           <p className="roboto-regular text-lg text-white">One</p>
           <h3 className="font-qanelasBold text-3xl text-white">Research</h3>
           <p className="roboto-regular text-sm md:text-lg text-white">
@@ -16,7 +16,7 @@ const MyApproach = () => {
             industry trends.
           </p>
         </div>
-        <div className="my-approach-box flex flex-col justify-center items-left p-4">
+        <div className="my-approach-box md:h-[28rem] flex flex-col justify-center items-left p-4">
           <p className="roboto-regular text-lg text-white">Two</p>
           <h3 className="font-qanelasBold text-3xl text-white">Concept</h3>
           <p className="roboto-regular text-sm md:text-lg text-white">
@@ -29,7 +29,7 @@ const MyApproach = () => {
             are key.
           </p>
         </div>
-        <div className="my-approach-box flex flex-col justify-center items-left p-4">
+        <div className="my-approach-box md:h-[25rem] flex flex-col justify-center items-left p-4">
           <p className="roboto-regular text-lg text-white ">Three</p>
           <h3 className="font-qanelasBold text-3xl text-white">Development</h3>
           <p className="roboto-regular text-sm md:text-lg text-white">
