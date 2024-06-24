@@ -20,8 +20,13 @@ const Header = () => {
             Hello, I am Ethan. A Product Designer
           </h2>
           <p className="text-lg my-4 lg:my-6 roboto-regular text-center text-white">
-            Lorem ipsum dolor sit amet, consetetur <br /> sadipscing elitr, sed
-            diam nonumy eirmod <br /> tempor Lorem ipsum dolor sit amet
+            Hello, I am Ethan, a product designer. I'm passionate about creating
+            user-friendly and visually appealing experiences that solve problems
+            and make a positive impact. With a keen eye for detail and a focus
+            on user research, I strive to bridge the gap between usability and
+            functionality. Whether it's designing intuitive interfaces, crafting
+            compelling user flows, or collaborating with cross-functional teams,
+            I'm excited to bring innovative products to life.
           </p>
           <div className="text-center">
             <button className="btn bg-[#FAE824] hover:text-white text-black roboto-medium">

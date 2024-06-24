@@ -11,11 +11,13 @@ const About = () => {
       <div className="xl:w-[721px] xl:h-auto xl:mx-3">
         <div>
           <p className="roboto-regular text-sm m-2 md:text-xl text-white xl:text-left">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-            erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
-            et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
-            Lorem ipsum dolor sit amet.
+            I'm Ethan, a passionate product designer with a keen eye for detail
+            and a user-centric approach. I combine creativity and strategic
+            thinking to bridge the gap between beautiful design and
+            user-friendly functionality. Whether it's crafting intuitive
+            interfaces, developing compelling brand identities, or creating
+            captivating video content, I'm driven to create experiences that
+            resonate with users and achieve real-world results.
           </p>
           <h4 className="font-qanelasBold text-white md:text-2xl text-center my-3 xl:text-left">
             Other Skills

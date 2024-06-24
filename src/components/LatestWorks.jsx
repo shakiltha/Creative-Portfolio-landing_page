@@ -12,8 +12,12 @@ const LatestWorks = () => {
           Latest works
         </h2>
         <p className="my-2 roboto-regular text-lg text-white xl:w-[40rem] xl:mx-auto">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore
+          I'm always pushing the boundaries of design and love to share my
+          latest creations! Here, you'll find a curated selection of my recent
+          projects, showcasing my approach to UI/UX design, branding, packaging,
+          or even motion graphics (depending on what you specialize in). Each
+          project highlights a specific design challenge and the solution I
+          implemented.
         </p>
         <div className="text-center">
           <button className="btn bg-[#FAE824] text-black hover:text-white roboto-medium">

@@ -9,8 +9,6 @@ import WorkedWith from "./components/WorkedWith";
 import img1 from "./assets/images/Mask Group 17.png";
 
 function App() {
-  // 1472
-
   return (
     <>
       <div className="relative">

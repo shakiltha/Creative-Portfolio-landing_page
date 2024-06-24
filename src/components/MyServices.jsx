@@ -10,8 +10,14 @@ const MyServices = () => {
           My Services
         </h2>
         <p className="text-lg roboto-regular text-white">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore
+          I offer a range of product design services to help bring your vision
+          to life. From user experience (UX) design, which focuses on user
+          research, information architecture, and interaction design, to user
+          interface (UI) design, where I craft visually appealing and intuitive
+          interfaces, I can cover all your design needs. I'm also happy to
+          assist with prototyping, usability testing, and design iterations to
+          ensure your product is not only beautiful but also functional and
+          user-friendly.
         </p>
         <h3 className="font-qanelasBold text-3xl md:text-4xl text-white my-2">
           120
@@ -35,8 +41,10 @@ const MyServices = () => {
             brand consultant
           </h3>
           <p className="mb-2 roboto-regular text-sm md:text-lg mx-2 text-white xl:text-left xl:ml-8">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut
+            In addition to product design, I also leverage my design thinking
+            and user-centric approach as a brand consultant. I can help you
+            develop a strong brand identity that resonates with your target
+            audience.
           </p>
         </section>
         <section className="xl:flex xl:items-center">
@@ -46,8 +54,10 @@ const MyServices = () => {
             ui/ux solutions
           </h3>
           <p className="mb-2 text-sm md:text-lg roboto-regular mx-2 text-white xl:text-left xl:ml-14">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut
+            I specialize in crafting user-centered UI/UX solutions that bridge
+            the gap between usability and aesthetics. Through user research and
+            information architecture, I design intuitive interfaces that are not
+            only visually appealing but also functionally sound.
           </p>
         </section>
         <section className="xl:flex xl:items-center">
@@ -57,8 +67,12 @@ const MyServices = () => {
             packaging design
           </h3>
           <p className="mb-2 text-sm md:text-lg roboto-regular mx-2 text-white xl:text-left xl:ml-14">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut
+            I bring creativity and strategic thinking to the realm of packaging
+            design. I can help you develop packaging that not only protects your
+            product but also serves as a powerful marketing tool. By
+            understanding your target audience and brand identity, I can design
+            packaging that is visually striking, informative, and resonates with
+            your customers.
           </p>
         </section>
         <section className="xl:flex xl:items-center">
@@ -68,8 +82,11 @@ const MyServices = () => {
             motion video & tvc
           </h3>
           <p className="text-sm md:text-lg roboto-regular mx-2 mb-2 text-white xl:text-left xl:ml-8">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-            nonumy eirmod tempor invidunt ut
+            I create captivating motion graphics and television commercials
+            (TVCs) that bring your brand story to life. By combining strategic
+            storytelling with engaging animation and visual effects, I can craft
+            videos that grab attention, communicate your message effectively,
+            and leave a lasting impression on viewers.
           </p>
         </section>
       </div>
